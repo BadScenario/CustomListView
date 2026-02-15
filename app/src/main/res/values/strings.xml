@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="createShop">СОЗДАТЬ МАГАЗИН</string>
+    <string name="exit">Exit</string>
+    <string name="nameProduct">Наименование</string>
+    <string name="costProduct">Цена продукта</string>
+    <string name="addProduct">Добавить</string>
+    <string name="description">Описание</string>
+    <string name="save">Сохранить</string>
+    <string name="back">back</string>
+</resources>
